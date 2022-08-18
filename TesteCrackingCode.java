@@ -12,6 +12,6 @@ public class TesteSobreCrackingCode {
 		for(int i=0; i<arranjo.length; i++){
 			arranjo[i] = i;
 		       System.out.println(arranjo[i]);
-		   }
+		}
 	}
 }
