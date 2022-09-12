@@ -5,10 +5,10 @@
 public class NumeroParImpar {
 
 	public static void main(String[] args) {
-		  for(i = 1; i < 16; i++){
-        if(i%2 != 0){
-          System.out.println("É ímpar "+i);
-        }
-      }
+		for(i = 1; i < 16; i++){
+        		if(i%2 != 0){
+          			System.out.println("É ímpar "+i);
+        		}
+      		}
 	}
 }
