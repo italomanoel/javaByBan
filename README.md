@@ -1,6 +1,8 @@
 # javaByBan
 #### Estudo sobre Java, explorando recursos da linguagem e suas bibliotecas.
 
->Conteúdo sobre [cracking code](TesteCrackingCode.java).
+>Sobre [cracking code](TesteCrackingCode.java).
 
->Conteúdo de OO e uso de [encapsulamento](Registros/RegistroTeste.java).
+>OO e uso de [encapsulamento](Registros/RegistroTeste.java).
+
+>Lista de números [ímpar ou pares](NumeroParImpar.java) em uma sequência.
